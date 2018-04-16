@@ -1,1 +1,9 @@
 E:\job\QuanLiKhoHang\QuanLiKhoHang\QuanLiKhoHang\bin\Debug\QuanLiKhoHang.exe.config
+E:\job\QuanLiKhoHang\QuanLiKhoHang\QuanLiKhoHang\bin\Debug\QuanLiKhoHang.exe
+E:\job\QuanLiKhoHang\QuanLiKhoHang\QuanLiKhoHang\bin\Debug\QuanLiKhoHang.pdb
+E:\job\QuanLiKhoHang\QuanLiKhoHang\QuanLiKhoHang\obj\Debug\QuanLiKhoHang.csprojResolveAssemblyReference.cache
+E:\job\QuanLiKhoHang\QuanLiKhoHang\QuanLiKhoHang\obj\Debug\QuanLiKhoHang.Login.resources
+E:\job\QuanLiKhoHang\QuanLiKhoHang\QuanLiKhoHang\obj\Debug\QuanLiKhoHang.Properties.Resources.resources
+E:\job\QuanLiKhoHang\QuanLiKhoHang\QuanLiKhoHang\obj\Debug\QuanLiKhoHang.csproj.GenerateResource.Cache
+E:\job\QuanLiKhoHang\QuanLiKhoHang\QuanLiKhoHang\obj\Debug\QuanLiKhoHang.exe
+E:\job\QuanLiKhoHang\QuanLiKhoHang\QuanLiKhoHang\obj\Debug\QuanLiKhoHang.pdb
